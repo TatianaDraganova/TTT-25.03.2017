@@ -1,0 +1,26 @@
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\TTT\TTT\bin\Debug\TTT.exe.config
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\TTT\TTT\bin\Debug\TTT.exe
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\TTT\TTT\bin\Debug\TTT.pdb
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\TTT\TTT\obj\Debug\TTT.csprojResolveAssemblyReference.cache
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\TTT\TTT\obj\Debug\TTT.Form1.resources
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\TTT\TTT\obj\Debug\TTT.Properties.Resources.resources
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\TTT\TTT\obj\Debug\TTT.csproj.GenerateResource.Cache
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\TTT\TTT\obj\Debug\TTT.exe
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\TTT\TTT\obj\Debug\TTT.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TTT\TTT\bin\Debug\TTT.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\TTT\TTT\obj\Debug\TTT.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\TTT\TTT\obj\Debug\TTT.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TTT\TTT\bin\Debug\TTT.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\TTT\TTT\bin\Debug\TTT.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\TTT\TTT\obj\Debug\TTT.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\TTT\TTT\obj\Debug\TTT.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TTT\TTT\obj\Debug\TTT.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\TTT\TTT\obj\Debug\TTT.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\TTT\TTT\obj\Debug\TTT.Form2.resources
+C:\Users\campus\Documents\Visual Studio 2015\Projects\Grosu1\TTT\TTT\obj\Debug\TTT.Form2.resources
+\\sirius\Public\__SPD1511\C#\TTT\TTT\bin\Debug\TTT.exe.config
+\\sirius\Public\__SPD1511\C#\TTT\TTT\obj\Debug\TTT.exe
+\\sirius\Public\__SPD1511\C#\TTT\TTT\obj\Debug\TTT.pdb
+D:\TDr\TTT 25.03.2017\TTT\bin\Debug\TTT.exe.config
+D:\TDr\TTT 25.03.2017\TTT\obj\Debug\TTT.exe
+D:\TDr\TTT 25.03.2017\TTT\obj\Debug\TTT.pdb
